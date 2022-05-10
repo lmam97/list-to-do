@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-transparent bg-gradient-to-r h-auto from-pink-300 to-purple-400;
+    font-family: sans-serif;
+}
